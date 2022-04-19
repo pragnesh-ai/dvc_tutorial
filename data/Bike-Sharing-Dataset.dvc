@@ -1,0 +1,5 @@
+outs:
+- md5: 3aa4abda117a5441888b5828c1c458c9.dir
+  size: 1219912
+  nfiles: 3
+  path: Bike-Sharing-Dataset
